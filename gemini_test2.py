@@ -12,8 +12,6 @@ import os
 import streamlit as st
 
 
-# Load environment variables from .env file
-load_dotenv()
 
 # Retrieve the Gemini API key
 # gemini_api_key = os.getenv("GEMINI_API_KEY")
