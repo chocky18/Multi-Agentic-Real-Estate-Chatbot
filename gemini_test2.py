@@ -8,7 +8,7 @@ import google.generativeai as genai
 from pydantic import BaseModel  # pydantic v2 compatible
 # import pprint
 import os
-from dotenv import load_dotenv
+
 import streamlit as st
 
 
