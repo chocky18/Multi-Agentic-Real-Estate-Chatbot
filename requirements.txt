@@ -1,6 +1,8 @@
 streamlit==1.41.1
 pillow==10.4.0
 google-generativeai==0.8.4
-langgraph==0.2.3
-langchain-core==0.3.51
+
 pydantic==2.11.1
+langchain-core==0.2.27
+langgraph==0.2.3
+
